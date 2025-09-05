@@ -1,1 +1,1 @@
-This is the first line in checkconflict branch
+This is first line in sample.txt from master branch
