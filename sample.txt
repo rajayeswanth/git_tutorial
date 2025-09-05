@@ -1,1 +1,2 @@
 This line in sample.txt is from master branch
+This is the line from mergeconflict branch
